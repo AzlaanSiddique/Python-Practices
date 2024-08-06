@@ -49,14 +49,20 @@ new_title_color_variable:str=color
 print(f"my favorite color is {new_title_color_variable}")
 
 #11 Changing Pet Name
-pet_name:str="buddy"
+pet_name="buddy"
 print(f"my pet name is {pet_name}")
-pet_name:str="max"
+pet_name="max"
 print(f"my pet name is {pet_name}")
 
 #12 Observing Name Error
 variable:str="sunshine"
 print(variable)
+
+#13 Reassigning Score
+score=100
+print(score)
+score=200
+print(score)
 
 #14 City Name
 city:str="Lahore"
