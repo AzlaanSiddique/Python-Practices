@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @AzlaanSiddique
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...03123255391(whatsapp)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
 
 <!---
 AzlaanSiddique/AzlaanSiddique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
